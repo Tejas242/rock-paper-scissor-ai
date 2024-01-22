@@ -113,21 +113,6 @@ const RockPaperScissors: FC = () => {
   return (
     <div className="max-w-5xl mx-auto lg:flex lg:justify-evenly lg:items-start">
       <div className="flex flex-col items-center justify-center text-center lg:mt-10">
-        <div className="flex justify-end w-full p-4">
-          {/* English Link */}
-          <Link href="/">
-            <span className="inline-flex items-center px-4 py-2 text-white duration-500 bg-indigo-500 rounded-md hover:bg-indigo-600">
-              English
-            </span>
-          </Link>
-
-          {/* Indonesian Link */}
-          <Link href="/">
-            <span className="inline-flex items-center px-4 py-2 text-white duration-500 bg-indigo-500 rounded-md hover:bg-indigo-600">
-              Indonesian
-            </span>
-          </Link>
-        </div>
 
         <div className="p-4">
           <h1 className="text-3xl font-bold text-indigo-500">Title</h1>
