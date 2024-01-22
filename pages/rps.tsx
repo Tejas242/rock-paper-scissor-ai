@@ -248,7 +248,7 @@ const RockPaperScissors: FC = () => {
             </p>
             <p>
               Github:
-              <a href="https://github.com/arifikhsan/batu-gunting-kertas-nuxt">
+              <a href="https://github.com/tejas242/rock-paper-scissor-ai.git">
                 Github
               </a>
             </p>
