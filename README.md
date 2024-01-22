@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors with AI
+# Rock-Paper-Scissors with AI [UNDER CONSTRUCTION, NOT YET WORKING!!]
 
 A simple Rock-Paper-Scissors game with an AI opponent, built using Next.js, TypeScript, Tailwind CSS, and Brain.js.
 
